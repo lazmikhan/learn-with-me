@@ -53,14 +53,12 @@ export default function Marketing() {
             />
           </div>
         </div>
-        <div className="flex flex-col items-center gap-y-8">
-    <h1 className="text-xl  font-bold text-neutral-600 max-w-[488px] text-center">
-    Master Languages, One Lesson at a Time: Your Path to Global Communication Starts Here.
-    </h1>
-
-        </div>
+      
   </div>
         <div className="  flex flex-col  gap-y-8 items-center justify-center">
+        <h1 className="text-xl  font-bold text-neutral-600 max-w-[488px] text-center">
+    Master Languages, One Lesson at a Time: Your Path to Global Communication Starts Here.
+    </h1>
         <ClerkLoading>
           <Loader/>  
         </ClerkLoading>

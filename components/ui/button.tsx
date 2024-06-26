@@ -29,7 +29,7 @@ const buttonVariants = cva(
                 sidebar: "bg-transparent text-slate-500 border-transparent border-0 hover:bg-slate-200 uppercase",
       
                 sidebarOutline:
-                  "border-4 border-sky-300 text-sky-300 uppercase bg-sky-100",
+                  "border-4 border-yellow-300 text-yellow-300 uppercase bg-yellow-100",
                 ghost: "bg-transparent text-slate-500 border-transparent border-0 hover:bg-slate-200 uppercase",
      
       },

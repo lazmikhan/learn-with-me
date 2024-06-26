@@ -9,7 +9,7 @@ import React from 'react'
 export default function Header() {
   return (
     <header className='pb-2 border-b-4 font-bold '>
-      <div className='lg:max-w-screen-lg mx-auto flex items-center justify-between h-full bg-green-400 '>
+      <div className=' mx-auto flex items-center justify-between h-full bg-green-400 '>
 <div className='pt-8 pl-4 pb-7 flex items-center gap-x-3 text-lg font-black text-primary-foreground'>
 
 <Image width={40} height={40} alt='plane' src="/planeYellow1.png"/>
